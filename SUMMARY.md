@@ -1,3 +1,6 @@
-# Table of content
+# Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* [Visual Identity](chapter1.md)
+* [Writing Style](writing-style.md)
+
