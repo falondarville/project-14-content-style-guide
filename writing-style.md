@@ -1,5 +1,7 @@
 # Writing Style
 
+---
+
 We commit to empowering people to learn through our actions. Our writing suits these goals:
 
 1. We give straight-forward explanations, examples, and exercise problems.
@@ -16,6 +18,10 @@ Where appropriate, we offer supplemental information through the use of link to 
 >
 > ** - Albert Einstein**
 
+## Grammar and Style Awareness
+
+---
+
 We abide by rules of good grammar and style awareness to encourage clarity, brevity, and standardization of text across site authors and platforms of communication:
 
 1. Use the Oxford Comma.
@@ -30,6 +36,10 @@ We abide by rules of good grammar and style awareness to encourage clarity, brev
 10. Avoid puns and word games that distract from the message.
 
 Use common sense and good writing practice to determine cases that have not been explicitly addressed here.
+
+## Online Courtesy 
+
+---
 
 As a professional learning platform, we strive to abide by courtesy in the online sphere through the following:
 
