@@ -8,7 +8,7 @@ Use the following brand guidelines to keep our visual identity consistent across
 2. Visuals and core branding instill trust in the learner and in our consistent quality. 
 3. We are a company of real individuals, not a money mill. We take pride in all of the work we do, and this reflects in our attention to detail. 
 
-## **Logo**
+## Logo
 
 ---
 
@@ -16,27 +16,32 @@ We offer downloadable assets to the public, as restricted by proper usage agreem
 
 ### Proper Logo Usage
 
-### **Requirements \(size, spacing, color, etc.\)**
+Logos may be used for general purpose in referring to the site. 
 
-### **Unacceptable Logo Usage**
+### Requirements \(size, spacing, color, etc.\)
 
-## ** Colors**
+List sizes, spacing, colors, etc. 
+
+### Unacceptable Logo Usage
+
+Logos are not to be altered. 
+
+## Colors
+
+---
+List the primary colors here (hex codes). Choose main branding colors and adhere to guidelines. Ex. specific blue for H1. Define color restrictions.
+
+## Typography
 
 ---
 
-//Choose main branding colors and adhere to guidelines. Ex. specific blue for H1. Define color restrictions.
+Define type fonts we will use on the site.
 
-## ** Typography**
-
----
-
-//Define type fonts we will use on the site
-
-## ** Imagery and Photography**
+## Imagery and Photography
 
 ---
 
-//Define what type of photographs and subject material we will use. We should avoid stock imagery at all costs. It’s easily recognisable and not custom.
+Define what type of photographs and subject material we will use. We should avoid stock imagery at all costs. It’s easily recognisable and not custom.
 
   
 
