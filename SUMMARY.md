@@ -4,5 +4,5 @@
 * [Visual Identity](chapter1.md)
 * [Writing Style](writing-style.md)
 * [Learning Material](learning-material.md)
-* [Blog Content](blog-content.md)
+* [Other Content](blog-content.md)
 
