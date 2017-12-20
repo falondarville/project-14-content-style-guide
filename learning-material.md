@@ -69,5 +69,41 @@ while (i < 9) {
 
 ---
 
+The following is a real-life example of a small program that will run and alert us when the bitcoin price is lower than $15,000. In the following example, we have used ECMAScript6 term "let" to assign the variable bitcoinPrice to the function getBitcoinPrice. Once we have established the variable, we created our while loop. 
+
+The while loop states that while the price of bitcoin is greater than $15,000, continue to get the price of bitcoin. Once the price of bitcoin is equal to or lower than $15,000, we will alert the user that the price is lower than $15,000 as well as provide the current price. This stops the function. 
+
+Note that we write 15000 instead of $15,000 because the computer cannot interpret specific currencies at this time, and relies instead on numbers. 
+
+```js
+(async () => {
+  // Get the price of a bitcoin
+  let wait = ms => new Promise(resolve => setTimeout(resolve, ms));
+  let targetPrice = 15000;
+  let bitcoinPrice = await getBitcoinPrice();
+
+  // Check the price, if it still above or equal to 15000 keep checking
+  while(bitcoinPrice >= targetPrice) {
+    await wait(5000);
+    bitcoinPrice = await getBitcoinPrice();
+  }
+
+  // When while loop stops checking when it is below 15000
+  alert(`Bitcoin is lower than ${targetPrice} Price: ${bitcoinPrice}`);
+})();
+```
+
+You may be wondering where the input comes from. That is, how does the computer know the current price of bitcoin? The following API will need to be connected for the previous while loop to work. 
+
+```js
+function getBitcoinPrice() {
+  return fetch('https://api.coindesk.com/v1/bpi/currentprice.json').then((response) => {
+    return response.json();
+  }).then((data) => {
+    return data.bpi.USD.rate_float;
+  })
+}
+```
+
 
 
