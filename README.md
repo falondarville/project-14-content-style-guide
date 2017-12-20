@@ -1,4 +1,4 @@
 # Project 14 Content Style Guide
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+This style guide outlines the visual, branding, and content philosophies and limitations that we abide by. 
 
