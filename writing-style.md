@@ -16,7 +16,7 @@ Where appropriate, we offer supplemental information through the use of link to 
 
 > ### **If you can't explain it to a six year old, you don't understand it yourself.**
 >
-> - Albert Einstein
+> ** - Albert Einstein**
 
 ## Grammar and Style Awareness
 
@@ -37,7 +37,7 @@ We abide by rules of good grammar and style awareness to encourage clarity, brev
 
 Use common sense and good writing practice to determine cases that have not been explicitly addressed here.
 
-## Online Courtesy 
+## Online Courtesy
 
 ---
 

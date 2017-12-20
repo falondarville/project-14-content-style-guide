@@ -3,4 +3,5 @@
 * [Introduction](README.md)
 * [Visual Identity](chapter1.md)
 * [Writing Style](writing-style.md)
+* [Learning Material](learning-material.md)
 
