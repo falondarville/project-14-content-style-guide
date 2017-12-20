@@ -35,7 +35,7 @@ In the while loop listed above, I have define that i is equal to zero. I do this
 var potentialClient = ["Jonathan", "Smitherson", "805-555-6647"];
 ```
 
-The variable potentialClient is an array. "Jonathan" is at position 0; "Smitherson" is at position 1; and "805-555-6647" is at position 2. Note that i is an arbitrary designation that I have given as my counter. You will be able to tell that I have constructed it because it appears after the designation "var." I could have chosen a range of other names such as "counter," but opted for i because you will often see this designation in other tutorials across the web.
+The variable potentialClient is an array. "Jonathan" is at position 0; "Smitherson" is at position 1; and "805-555-6647" is at position 2. Note that i is an arbitrary designation that I have given as my counter. You use a counter to keep track of how many times a loop has run through. You will be able to tell that I have arbitrarily named my counter i because it appears after the designation "var." I could have chosen a range of other names such as "counter," but opted for i because you will often see this designation in other tutorials across the web.
 
 After I have assigned i the value of 0, I have said that while i is less than nine, I will print "I'm counting." So that I don't get stuff in an infinite loop \(that will crash my browser\), I have added to i at the end of each loop. So each time I go through the while loop, I am counting up. If i++ was not in included, i would always be less than nine and so the loop would not stop.
 
