@@ -16,7 +16,7 @@ Where appropriate, we offer supplemental information through the use of link to 
 
 > ### **If you can't explain it to a six year old, you don't understand it yourself.**
 >
-> ** - Albert Einstein**
+> - Albert Einstein
 
 ## Grammar and Style Awareness
 
