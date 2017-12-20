@@ -62,14 +62,12 @@ while (i < 9) {
 //ninth loop: i = 8, while loop runs and prints "I'm counting"
 
 //In the above, you see that the loop has run nine times. 
-//Google Chrome prints 8 because i = 8 at the end of your loop.
+//Google Chrome console prints 8 because i = 8 at the end of your loop.
 ```
 
 ### Real-World Application of While Loops
 
 ---
-
-
 
 
 
