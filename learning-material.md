@@ -69,11 +69,11 @@ while (i < 9) {
 
 ---
 
-The following is a real-life example of a small program that will run and alert us when the bitcoin price is lower than $15,000. In the following example, we have used ECMAScript6 term "let" to assign the variable bitcoinPrice to the function getBitcoinPrice. Once we have established the variable, we created our while loop. 
+The following is a real-life example of a small program that will run and alert us when the bitcoin price is lower than $15,000. In the following example, we have used ECMAScript6 term "let" to assign the variable bitcoinPrice to the function getBitcoinPrice. Once we have established the variable, we created our while loop.
 
-The while loop states that while the price of bitcoin is greater than $15,000, continue to get the price of bitcoin. Once the price of bitcoin is equal to or lower than $15,000, we will alert the user that the price is lower than $15,000 as well as provide the current price. This stops the function. 
+The while loop states that while the price of bitcoin is greater than $15,000, continue to get the price of bitcoin. Once the price of bitcoin is equal to or lower than $15,000, we will alert the user that the price is lower than $15,000 as well as provide the current price. This stops the function.
 
-Note that we write 15000 instead of $15,000 because the computer cannot interpret specific currencies at this time, and relies instead on numbers. 
+Note that we write 15000 instead of $15,000 because the computer cannot interpret specific currencies at this time, and relies instead on numbers.
 
 ```js
 (async () => {
@@ -93,7 +93,7 @@ Note that we write 15000 instead of $15,000 because the computer cannot interpre
 })();
 ```
 
-You may be wondering where the input comes from. That is, how does the computer know the current price of bitcoin? The following API will need to be connected for the previous while loop to work. 
+You may be wondering where the input comes from. That is, how does the computer know the current price of bitcoin? The following API will need to be connected for the previous while loop to work.
 
 ```js
 function getBitcoinPrice() {
@@ -102,6 +102,21 @@ function getBitcoinPrice() {
   }).then((data) => {
     return data.bpi.USD.rate_float;
   })
+}
+```
+
+### A Summary of While Loops
+
+---
+
+While loops allow you to execute a portion of code repeatedly until particular criteria is met. To create a while loop, you will need to:
+
+1. Establish the while loop. The formatting will look like the example below. 
+2. Ensure that failure will occur at some point so that you are not creating an infinite loop. For example, you can add a counter that will break the loop once the counter maximum is reached. 
+
+```
+while(condition) {
+    code to be executed repeatedly
 }
 ```
 
