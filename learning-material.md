@@ -65,5 +65,11 @@ while (i < 9) {
 //Google Chrome prints 8 because i = 8 at the end of your loop.
 ```
 
+### Real-World Application of While Loops
+
+---
+
+
+
 
 
