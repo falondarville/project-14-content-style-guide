@@ -37,7 +37,7 @@ var potentialClient = ["Jonathan", "Smitherson", "805-555-6647"];
 
 The variable potentialClient is an array. "Jonathan" is at position 0; "Smitherson" is at position 1; and "805-555-6647" is at position 2. Note that i is an arbitrary designation that I have given as my counter. You will be able to tell that I have constructed it because it appears after the designation "var." I could have chosen a range of other names such as "counter," but opted for i because you will often see this designation in other tutorials across the web.
 
-After I have assigned i the value of 0, I have said that while i is less than nine, I will print "I'm counting." So that I don't get stuff in an infinite loop \(that will crash my browser\), I have added to i at the end of each loop. So each time I go through the while loop, I am counting up. If i++ was not in included, i would always be less than nine and so the loop would not stop. 
+After I have assigned i the value of 0, I have said that while i is less than nine, I will print "I'm counting." So that I don't get stuff in an infinite loop \(that will crash my browser\), I have added to i at the end of each loop. So each time I go through the while loop, I am counting up. If i++ was not in included, i would always be less than nine and so the loop would not stop.
 
 The following loop will run 9 times and print "I'm counting" 9 times. If you run this while loop in your Google Chrome console, the number 8 will also be printed after "I'm counting." Let's break down the function in discreet steps to demonstrate each portion of this process.  See the commented out portion below and refer to the loop to understand each step going on.
 
@@ -62,7 +62,7 @@ while (i < 9) {
 //ninth loop: i = 8, while loop runs and prints "I'm counting"
 
 //In the above, you see that the loop has run nine times. 
-//Google Chrome prints 8 because i = 8 at the end of your loop. 
+//Google Chrome prints 8 because i = 8 at the end of your loop.
 ```
 
 
