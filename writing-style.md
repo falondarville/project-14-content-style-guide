@@ -37,7 +37,7 @@ We abide by rules of good grammar and style awareness to encourage clarity, brev
 
 Use common sense and good writing practice to determine cases that have not been explicitly addressed here.
 
-## Online Courtesy 
+## Online Courtesy
 
 ---
 
