@@ -5,4 +5,5 @@
 * [Writing Style](writing-style.md)
 * [Learning Material](learning-material.md)
 * [Other Content](blog-content.md)
+* [Organization of Material](organization.md)
 
